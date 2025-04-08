@@ -1,5 +1,0 @@
-# prints Hello World
-print("Hello World")
-
-# Does Some Math
-print(f"2+2 is {2+2}")
